@@ -1,4 +1,4 @@
-# BikriBazar
+# Bikribazar online store (BikriBazar)
 ![Bikribazar online store](./bikribazar_logo.png)
 
 

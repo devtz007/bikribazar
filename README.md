@@ -6,6 +6,5 @@ Website: https://www.bikribazar.com
 <br/>
 <br/>
 
-**This website is under construction**
 ## Developer: Techjork IT Solutions Limited
 Website: [www.techjork.com](https://www.techjork.com)

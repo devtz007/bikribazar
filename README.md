@@ -1,5 +1,6 @@
 # Bikribazar online store (BikriBazar)
-![Bikribazar online store](./bikribazar_logo.png)
+[![Bikribazar online store](./bikribazar_logo.png)](https://www.bikribazar.com)
+Website: https://www.bikribazar.com
 
 
 ***This website is under construction***
